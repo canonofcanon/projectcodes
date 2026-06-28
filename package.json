@@ -1,0 +1,10 @@
+{
+  "name": "dreamcoat-project-code-registry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dreamcoat — Project Code Registry (static site + Netlify Functions shared store)",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
